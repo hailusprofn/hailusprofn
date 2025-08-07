@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Hailemariam Abdi.
-###  Hailemariam is a passionate Software Engineer Horticulturist | 🌿 Sustainability Advocate
+### Software Engineer | Horticulturist | DevOps Enthusiast | Sustainability Advocate
 
 ### I have multidisciplinary profession with a background in Software Engineering, DevOps, Cloud and Horticulture. After several years in plant research and sustainable agriculture, I transitioned into cloud and software to build smart, scalable, and sustainable AgTech tools. My passion is at the intersection of nature and technology—designing AI-driven solutions for resilient food systems, green software infrastructure, and data-informed climate strategies.
 ---
