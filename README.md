@@ -1,7 +1,25 @@
 ## Hi there 👋 This is Hailemariam Abdi.
-###  💻 Software Engineer | ☁️ DevOps Enthusiast | 🌱 Horticulturist | 🌿 Sustainability Advocate
+###  Hailemariam is a passionate Software Engineer Horticulturist | 🌿 Sustainability Advocate
 
+### I have multidisciplinary profession with a background in Software Engineering, DevOps, Cloud and Horticulture. After several years in plant research and sustainable agriculture, I transitioned into cloud and software to build smart, scalable, and sustainable AgTech tools. My passion is at the intersection of nature and technology—designing AI-driven solutions for resilient food systems, green software infrastructure, and data-informed climate strategies.
 ---
+
+## My Multidisciplinary Journey
+
+I began my career as a horticulturist and plant researcher, dedicated to improving plant varieties, ensuring crop resilience, and driving sustainable agricultural practices.
+
+Over the years, I saw firsthand how **technology could transform agriculture**: from automated data collection to climate-responsive farming. This inspired me to pivot, retrain, and pursue a **Master’s in Software Engineering** while diving into **Cloud DevOps ** and modern **Python development**.
+
+Today, I bring together:
+- 🧠 **Research rigor** from plant science  
+- 💻 **Engineering discipline** from software development  
+- ☁️ **Scalability and security** from DevOps and cloud systems  
+
+My goal is to bridge the gap between **traditional horticulture** and **emerging technologies**, building tools that not only enhance crop yields and resource use but also align with **green software principles** and **climate resilience goals**.
+
+I thrive in environments that need both **domain-specific knowledge** and **technical innovation**—from AI-enabled farming dashboards to sustainable cloud infrastructure for AgTech startups.
+
+
 
 ## 🚀 About Me
 - 💻 Studying Software Engineering (Masters)
@@ -20,12 +38,7 @@
 **Cloud:** Azure 
 **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
 **Frontend:** HTML, CSS, React  
-**Databases:** SQL Server, Supabase, PostgreSQL, MySQL  
-
----
-
-## 📈 GitHub Stats
-![Hailemariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailu-a&show_icons=true&theme=tokyonight)
+**Databases:** SQL Server, Supabase/PostgreSQL, MySQL  
 
 ---
 
