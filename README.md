@@ -4,8 +4,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Software Engineering (Masters)
-- 🎓 Associate's in Computer Network Design & Administration 
+- 💻 Studying Software Engineering (Masters)
+- 💻 Associates in Computer Network Design & Administration
+- 💻 Vocational Certificates in Desktop Support 
 - 🌿 Bachelor's in Horticulture
 - ☁️ 3+ Years Kubernetes Engineer (Azure Cloud)
 - ☁️ 3+ Years Azure Cloud Experience
