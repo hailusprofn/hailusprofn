@@ -1,14 +1,13 @@
 ## Hi there 👋 This is Hailemariam Abdi.
 ### Software Engineer | DevOps Enthusiast | Horticulturist 
 
-I have multidisciplinary profession with a background in Software Engineering, DevOps, Cloud and Horticulture. After several years in plant research and sustainable agriculture, I transitioned into cloud and software to build smart, scalable, and sustainable AgTech tools. My passion is at the intersection of nature and technology—designing AI-driven solutions for resilient food systems, green software infrastructure, and data-informed climate strategies.
 ---
 
 ## My Multidisciplinary Journey
 
-I began my career as a horticulturist and plant researcher, dedicated to improving plant varieties, ensuring crop resilience, and driving sustainable agricultural practices.
+I have a multidisciplinary profession with a background in Software Engineering, DevOps, Cloud and Horticulture. I began my career as a horticulturist and plant researcher, dedicated to improving plant varieties, ensuring crop resilience, and driving sustainable agricultural practices. After several years in plant research and sustainable agriculture, I saw firsthand how **technology could transform agriculture**. This inspired me to become information technologiest mastering **IT Infrastructure**, **DevOps**, **Cloud** and **Software Engineering**. My passion is at the intersection of nature and technology—designing AI-driven smart, scalable and sustainable AgTech solutions for resilient food systems, green software infrastructure, and data-informed climate strategies.
 
-Over the years, I saw firsthand how **technology could transform agriculture**: from automated data collection to climate-responsive farming. This inspired me to pivot, retrain, and pursue a **Master’s in Software Engineering** while diving into **Cloud DevOps ** and modern **Python development**.
+
 
 Today, I bring together:
 - 🧠 **Research rigor** from plant science  
