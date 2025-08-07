@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 This is Hailemariam Abdi.
+### 💻 Software Engineer | 🌱 Horticulturist | ☁️ DevOps Enthusiast | 🌿 Sustainability Advocate
 <!--
 **hailusprofn/hailusprofn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
