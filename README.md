@@ -1,5 +1,4 @@
 ## Hi there 👋 This is Hailemariam Abdi.
-# 👋 Hi, I'm Hailemariam Abdi.
 ###  💻 Software Engineer | ☁️ DevOps Enthusiast | 🌱 Horticulturist | 🌿 Sustainability Advocate
 
 ---
