@@ -27,7 +27,7 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 - 🌿 Bachelor's in Horticulture
 - ☁️ 3+ Years Kubernetes Engineer (Azure Cloud)
 - ☁️ 3+ Years Azure Cloud Experience
-- ☁️ 3+ Years DevOps Expperience
+- ☁️ 3+ Years DevOps Experience
 - 💡 Passionate about AgTech & Green Software Engineering
 
 ---
