@@ -31,7 +31,7 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Golang  
+**Python, Golang**  
 **Azure Cloud**  
 **DevOps Tools**   
 
