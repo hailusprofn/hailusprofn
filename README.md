@@ -21,23 +21,19 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 
 
 ## 🚀 About Me
-- 💻 Studying Software Engineering (Masters)
-- 💻 Associates in Computer Network Design & Administration
-- 💻 Vocational Certificates in Desktop Support 
-- 🌿 Bachelor's in Horticulture
+- 💻 Software Engineer (Masters)
+- 🌿 Horticulturist (Bachelors)
 - ☁️ 3+ Years Kubernetes Engineer (Azure Cloud)
-- ☁️ 3+ Years Azure Cloud Experience
-- ☁️ 3+ Years DevOps Experience
+- ☁️ Certified DevOps Engineer (Microsoft Azure)
+- ☁️ Certified Solution Architect (Microsoft Azure) 
 - 💡 Passionate about Technology, AgTech and Sustainability.
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, Bash  
-**Cloud:** Azure 
-**DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
-**Frontend:** HTML, CSS, React  
-**Databases:** SQL Server, Supabase/PostgreSQL, MySQL  
+**Languages:** Python, Golang  
+**Azure Cloud**  
+**DevOps Tools**   
 
 ---
 
@@ -49,8 +45,8 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/hailusprofn)
+- 📧 Email: hailuprof@gmail.com
 - 🌐 Portfolio Website: [hailu.dev](https://hailu.dev) _(optional)_
 
 
