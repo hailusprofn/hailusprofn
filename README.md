@@ -46,8 +46,8 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](www.linkedin.com/in/hailusprofn)
-- 📧 Email: hailuprof@gmail.com
-- 🌐 Portfolio Website: [hailu.dev](https://hailu.dev) _(optional)_
+- 📧 [Email}(hailuprof@gmail.com)
+- 🌐 [Portfolio](https://hailu.dev)
 
 
 <!--
