@@ -21,6 +21,7 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 - 💻 Software Engineer (Masters)
 - 🌿 Horticulturist (Bachelors)
 - ☁️ 3+ Years Cloud Infrastructure and DevOps Experience
+- 🌿5+ Years Plant Research Experience
 - 💡 Passionate about Software, Technology, AgTech and Sustainability.
 
 ---
