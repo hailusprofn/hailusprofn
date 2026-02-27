@@ -7,7 +7,7 @@ This is Hailemariam! A Software Engineer & Horticulturist!
 - 💻 Software Engineer (Masters)
 - 🌿 Horticulturist (Bachelors)
 - ☁️ 3+ Years Cloud Infrastructure and DevOps Experience
-- 🌿5+ Years Plant Research Experience
+- 🌿 5+ Years Plant Research Experience
 - 💡 Passionate about Software, Technology, AgTech domain and Sustainability.
 
 
