@@ -1,4 +1,5 @@
-## Hi there 👋 This is Hailemariam.
+## Hi there 👋 
+## This is Hailemariam.
 ### Software Engineer & Horticulturist!
 
 ---
