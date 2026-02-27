@@ -16,16 +16,11 @@ This is Hailemariam! A Software Engineer & Horticulturist!
 I have a multidisciplinary profession with a background in Software Engineering, DevOps, Cloud Infrastructure and Horticulture. I began my career as a horticulturist and plant researcher, dedicated to improving plant varieties, ensuring crop resilience, and driving sustainable agricultural practices. After several years in plant breeding research, I saw firsthand how **technology could transform agriculture**. This inspired me to become information technologist and learn **IT Infrastructure**, **DevOps**, **Cloud Technology** and **Software Engineering**. My passion is at the intersection of nature and technology—designing AI-driven smart, scalable and sustainable AgTech solutions for resilient food systems, green software infrastructure, and data-informed climate strategies.
 
 
-Today, I bring together:
-- 🧠 **Research rigor** from plant science  
-- 💻 **Engineering discipline** from software development  
-- ☁️ **Infrastructure Scalability and Security** from DevOps and cloud systems  
-
-My goal is to bridge the gap between **Agriculture** and **Emerging Technologies**, building digital tools that enhance crop yields and sustainable resource management.
-
-I thrive in environments that need both **domain-specific knowledge** and **technical innovation**—from Digital and AI-enabled farming to sustainable cloud infrastructure for AgTech startups.
-
-
+My Skiil Sets:
+- 🧠 Agricultural Research in the area of plant breeding crop improvement   
+- 💻 Software Engineering focusing on designing, implementing, testing and deploying software solutions   
+- 💻 Software Quality Assurance
+- ☁️ CI/CD pipeline driven cloud infrastructure configuration and management within SDLC  
 
 ---
 
