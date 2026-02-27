@@ -1,5 +1,5 @@
-## Hi there 👋 This is Hailemariam Abdi.
-### Software Engineer | DevOps Enthusiast | Horticulturist 
+## Hi there 👋 This is Hailemariam.
+### Software Engineer & Horticulturist!
 
 ---
 
