@@ -3,7 +3,7 @@ This is Hailemariam! A Software Engineer & Horticulturist!
 
 ---
 
-## 🚀 About Me
+## About Me
 - 💻 Software Engineer (Masters)
 - 🌿 Horticulturist (Bachelors)
 - ☁️ 3+ Years Cloud Infrastructure and DevOps Experience
