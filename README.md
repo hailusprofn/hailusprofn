@@ -21,7 +21,7 @@ Today, I bring together:
 - 💻 **Engineering discipline** from software development  
 - ☁️ **Infrastructure Scalability and Security** from DevOps and cloud systems  
 
-My goal is to bridge the gap between **Agriculture** and **Emerging Technologies**, building tools that enhance crop yields and sustainable resource management.
+My goal is to bridge the gap between **Agriculture** and **Emerging Technologies**, building digital tools that enhance crop yields and sustainable resource management.
 
 I thrive in environments that need both **domain-specific knowledge** and **technical innovation**—from Digital and AI-enabled farming to sustainable cloud infrastructure for AgTech startups.
 
