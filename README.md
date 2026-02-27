@@ -1,6 +1,5 @@
 ## Hi there 👋 
-This is Hailemariam.
-Software Engineer & Horticulturist!
+This is Hailemariam! A Software Engineer & Horticulturist!
 
 ---
 
