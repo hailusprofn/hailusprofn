@@ -26,13 +26,6 @@ I thrive in environments that need both **domain-specific knowledge** and **tech
 
 ---
 
-## 📌 Featured Projects
-- 🔗 [🌿 HortiBotics – AI for Horticulture](https://github.com/hailu-a/hortibotics)
-- 🔗 [📊 GPA Calculator App](https://github.com/hailu-a/gpa-calculator)
-- 🔗 [🤖 BookBotics – AI Book Finder](https://github.com/hailu-a/bookbotics)
-
----
-
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](www.linkedin.com/in/hailusprofn)
 - 📧 [Email](hailuprof@gmail.com)
