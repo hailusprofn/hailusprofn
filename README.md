@@ -20,7 +20,7 @@ I have a multidisciplinary profession with a background in Software Engineering,
 - 🧠 Agricultural Research in the area of plant breeding crop improvement   
 - 💻 Software Engineering focusing on designing, implementing, testing and deploying software solutions   
 - 💻 Software Quality Assurance
-- ☁️ CI/CD pipeline driven cloud infrastructure configuration and management within SDLC  
+- ☁️ CI/CD pipeline driven cloud infrastructure configuration and management
 
 ---
 
